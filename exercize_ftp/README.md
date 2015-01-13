@@ -13,9 +13,9 @@ A------B------C------D
 
 Il traffico dati è il seguente:
 
-1.                  Tra A e D c'è una connessione FTP che trasferisce 100MB
+1 -              Tra A e D c'è una connessione FTP che trasferisce 100MB
 
-2.                  Tra D e A c'è una connessione FTP che trasferisce 20MB
+2 -                  Tra D e A c'è una connessione FTP che trasferisce 20MB
 
 I trasferimenti iniziano allo stesso tempo.
 
